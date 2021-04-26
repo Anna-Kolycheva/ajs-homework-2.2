@@ -1,7 +1,6 @@
 {
   "name": "inportexport",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -42,5 +41,6 @@
   "bugs": {
     "url": "https://github.com/Anna-Kolycheva/ajs-homework-2.2/issues"
   },
-  "homepage": "https://github.com/Anna-Kolycheva/ajs-homework-2.2#readme"
+  "homepage": "https://github.com/Anna-Kolycheva/ajs-homework-2.2#readme",
+  "description": ""
 }
